@@ -1,5 +1,8 @@
 # math-teach-
 MATH TEACH
+streamlit
+google-generativeai
+pillow
 import streamlit as st
 import ollama
 from PIL import Image
